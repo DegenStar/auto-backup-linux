@@ -85,8 +85,8 @@ cd auto-backup-linux
 # 使用 uv 安装（开发模式）
 uv pip install -e .
 
-# 或使用 pip
-pip install -e .
+# 或使用 pipx
+pipx install -e .
 ```
 
 ### 运行方式
